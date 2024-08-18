@@ -56,3 +56,32 @@ The Fitness Tracker is a web application that allows users to log and track thei
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret_key
    ```
+
+Replace your_mongodb_connection_string with your actual MongoDB connection string, and your_jwt_secret_key with a secret key for JWT.
+
+4. **Start the Development Server**:
+
+Navigate to the server directory and start the backend server:
+
+```
+cd ../server
+npm run dev
+In a new terminal, navigate to the client directory and start the frontend:
+```
+```
+cd ../client
+npm start
+The application will now be running locally, and you can access it in your web browser at:
+```
+
+```
+http://localhost:3000
+```
+
+##Usage
+
+-**Register**: Create a new user account by filling out the registration form.
+-**Login**: Use your credentials to log in to your account.
+-**Add Workout**: Navigate to the workout page to log a new workout session by selecting exercises, duration, and additional details.
+-**View Workouts**: Access the dashboard to view all your logged workouts and track your fitness progress.
+-**Edit/Delete Workouts**: Update or remove any workout entries as needed.
