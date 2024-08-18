@@ -78,10 +78,10 @@ The application will now be running locally, and you can access it in your web b
 http://localhost:3000
 ```
 
-##Usage
+## Usage
 
--**Register**: Create a new user account by filling out the registration form.
--**Login**: Use your credentials to log in to your account.
--**Add Workout**: Navigate to the workout page to log a new workout session by selecting exercises, duration, and additional details.
--**View Workouts**: Access the dashboard to view all your logged workouts and track your fitness progress.
--**Edit/Delete Workouts**: Update or remove any workout entries as needed.
+- **Register**: Create a new user account by filling out the registration form.
+- **Login**: Use your credentials to log in to your account.
+- **Add Workout**: Navigate to the workout page to log a new workout session by selecting exercises, duration, and additional details.
+- **View Workouts**: Access the dashboard to view all your logged workouts and track your fitness progress.
+- **Edit/Delete Workouts**: Update or remove any workout entries as needed.
